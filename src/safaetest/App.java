@@ -11,6 +11,7 @@ public class App {
 		System.out.println("not pull");
 		System.out.println("nothing");
 		System.out.println("thx");
+		System.out.println("thank you");
 
 	}
 
