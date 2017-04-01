@@ -9,7 +9,7 @@ public class App {
 		
 		//comment by develop2
 		System.out.println("not pull");
-		System.out.println("ok");
+		System.out.println("thx");
 	}
 
 }
