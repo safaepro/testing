@@ -10,6 +10,8 @@ public class App {
 		//comment by develop2
 		System.out.println("not pull");
 		System.out.println("nothing");
+		System.out.println("thx");
+
 	}
 
 }
