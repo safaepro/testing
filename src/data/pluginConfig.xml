@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Configuration>
+    <plugins>
+        <plugin>
+            <id>plugin-id</id>
+            <name>plugin1</name>
+            <url>/url/plugin1</url>
+            <version>0-0-1</version>
+        </plugin>
+        <plugin>
+            <id>plugin-id2</id>
+            <name>plugin2</name>
+            <url>/url/plugin2</url>
+            <version>0-0-2</version>
+        </plugin>
+        <plugin>
+            <id>plugin-id3</id>
+            <name>plugin3</name>
+            <url>/url/plugin3</url>
+            <version>0-0-3</version>
+        </plugin>
+        <plugin>
+            <id>plugin-id5</id>
+            <name>plugin4</name>
+            <url>/url/plugin4</url>
+            <version>0-0-4</version>
+        </plugin>
+        <plugin>
+            <id>plugin-id6</id>
+            <name>plugin6</name>
+            <url>/url/plugin6</url>
+            <version>0-0-6</version>
+        </plugin>
+    </plugins>
+</Configuration>
