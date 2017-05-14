@@ -2,7 +2,7 @@
 <Configuration>
     <plugins>
         <plugin>
-            <id>plugin-id</id>
+            <id>plugin-idjj</id>
             <name>plugin1</name>
             <url>/url/plugin1</url>
             <version>0-0-1</version>
